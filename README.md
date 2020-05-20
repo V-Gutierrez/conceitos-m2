@@ -7,11 +7,11 @@ Link da proposta: https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/m
 
 Ele foi muito bom para aprender mais sobre:
 
-Conceitos iniciais do Node.JS
-Métodos de requisição HTTP;
-Uso do Insomnia
-Uso do Jest e Test Suites;
-Uso do UUID e Express
+- Conceitos iniciais do Node.JS
+- Métodos de requisição HTTP;
+- Uso do Insomnia
+- Uso do Jest e Test Suites;
+- Uso do UUID e Express
 
 Nessa segunda etapa resolvi experimentar tudo que tinha aprendido até agora. 
 
