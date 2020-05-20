@@ -20,4 +20,4 @@ Nessa segunda etapa resolvi experimentar tudo que tinha aprendido até agora.
 
 É possível adicionar um repositório, dar like e dar um título a ele. Tudo isso fica armazenado no backend e no frontend e ambos são atualizados no caso de uma alteração. Foi muito divertido fazer esse projeto e ver tudo funcionando foi gratificante.
 
-O input de dados foi um desafio que eu mesmo criei para testar meus conhecimentos e ver tudo funcionando; você pode consultar o desafio original neste [link][https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native] 
+O input de dados foi um desafio que eu mesmo criei para testar meus conhecimentos e ver tudo funcionando; você pode consultar o desafio original neste [link](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native)
