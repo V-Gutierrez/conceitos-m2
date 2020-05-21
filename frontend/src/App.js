@@ -3,14 +3,6 @@ import api from "./services/api";
 
 import "./styles.css";
 
-let repoNew = {
-  id: "uuid()",
-  title: "Conceitos Node",
-  url: "https://github.com/V-Gutierrez/conceitosnode-m2/",
-  techs: "Node.js",
-  likes: 0,
-};
-
 function App() {
   const [repo, setRepo] = useState([]);
   const [title, setTitle] = useState();
