@@ -3,6 +3,7 @@ Meu primeiro projeto em React-Native
 
 Nessa etapa o projeto ganhou sua forma mobile utilizando o mesmo back-end.
 
+Link do desafio: https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-conceitos-react-native/README.md
 
 
 ![Screenshot_1590092277](https://user-images.githubusercontent.com/62355596/82603275-5d338c80-9b80-11ea-8885-70a5f7520a92.png)
