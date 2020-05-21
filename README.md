@@ -1,4 +1,4 @@
-# conceitosnode-m2
+# conceitos-m2
 
 Esse projeto é desafio da RocketSeat. Uma aplicação para armazenar 
 repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios,
